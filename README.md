@@ -1,0 +1,7 @@
+I had my final mostly done and went to go finish it yesterday (it's currently tuesday the 23rd), but I couldn't find it. I kept looking, checked my recent files, checked everything I could think of... I couldn't find it.
+
+I'd have had this done yesterday (I already had the shape classes set up I just needed to finish the csv reader) but I guess I lost everything?
+
+What you'll see in here is the result of me hopped up on three cups of caffeine juice (coffee) and some Adderall (not any more than I would normally take but it's a decent dosage by itself regardless) and about 4 hours of sleep while having been awake for 16 hours already. I have now been awake for almost 24 hours.
+
+So if this isn't up to standards, if there are parts that I missed (I don't remember what eager loading is), if the area/volume calculations are wrong or mathematically incorrect, and if the program bricks because i didn't implement a proper response to area/volume for any more than what was required to get the provided exmaple file to not throw me an error... then I'm sorry. But I'm really tired, and I just want a passing enough grade to not fail the class so I don't get put on academic probation. I mean no disrespect to you, this is a result of me not handling my own data properly, but please understand I still don't know what happened to the previous file, and had it not disappeared, this would probably be a better program and would have been turned in on time. Sorry about that, and sorry about this rant.
